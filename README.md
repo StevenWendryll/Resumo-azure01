@@ -1,67 +1,135 @@
-# Resumo-laborat-rio-azure01
-Este resumo contém lições aprendidas no curso da DIO
+# ☁️ Azure Fundamentals - Resumo de Computação em Nuvem
 
-###O que é a computação em nuvem?
+> 📚 Resumo prático desenvolvido durante o curso da DIO  
+> 🎯 Foco: Fundamentos de Cloud Computing com Microsoft Azure  
 
-- A computação em nuvem é o fornecimento de serviços de computação pela internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
+---
 
-##Modelos de Nuvem
+## 🚀 Sobre o Projeto
 
-###Nuvem privada:
+Este repositório contém um resumo estruturado dos conceitos fundamentais de **Computação em Nuvem**, abordando modelos, custos e funcionamento do ambiente cloud.
 
-- As organizações criam um ambiente em nuvem em seu datacenter.
+💡 Ideal para revisão rápida e apoio nos estudos para certificações como:
+- AZ-900 (Microsoft Azure Fundamentals)
 
-- As organizações são responsáveis por operar os serviços que fornecem.
+---
 
-- Não fornece acesso aos usuários fora da organização
+## 🧠 Conceitos Fundamentais
 
-###Nuvem pública:
+### ☁️ O que é Computação em Nuvem?
 
-- Pertence a serviços de nuvem ou provedor de hosting.
+Computação em nuvem é a entrega de serviços de TI pela internet, permitindo:
 
-- Fornece recursos e serviços a várias organizações e usuários.
+- Escalabilidade sob demanda  
+- Alta disponibilidade  
+- Redução de custos com infraestrutura  
+- Maior velocidade no desenvolvimento  
 
-- Acessada via conexão de rede segura (geralmente pela internet).
+---
 
-###Nuvem híbrida
+## 🏗️ Modelos de Nuvem
 
-- Combina nuvens públicas e privadas para permitir que os aplicativos sejam executados no local mais adequado.
+| Modelo        | Descrição |
+|--------------|----------|
+| 🔒 **Privada** | Infraestrutura exclusiva da empresa |
+| 🌐 **Pública** | Recursos fornecidos por provedores |
+| 🔀 **Híbrida** | Combinação entre pública e privada |
 
-##Comparação de modelos de nuvem
+---
 
-###Nuvem pública
+### 🔒 Nuvem Privada
+- Controle total da infraestrutura  
+- Maior segurança e personalização  
+- Alto custo de manutenção  
 
-- Nenhuma despesa de capital para escalar verticalmente.
-- Os aplicativos podem ser provisionados e desprovisionados rapidamente.
-- As organizações pagam apenas pelo que utilizam.
+---
 
-###Nuvem privada
+### 🌐 Nuvem Pública
+- Sem investimento inicial (CapEx)  
+- Escalável e sob demanda  
+- Cobrança baseada no uso  
 
-- As organizações têm controle total sobre os recursos e a segurança.
-- As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
+---
 
-###Nuvem híbrida
+### 🔀 Nuvem Híbrida
+- Flexibilidade operacional  
+- Melhor custo-benefício  
+- Controle + escalabilidade  
 
-- As organizações determinam onde executar seus aplicativos.
-- As organizações controlam a segurança, a conformidade e os requisitos legais.
-- Fornece a maior flexibilidade.
+---
 
-##Comparação de CapEx e OpEx
+## ⚖️ Comparação Estratégica
 
-###Despesas de capital (CapEx)
+| Característica     | Pública | Privada | Híbrida |
+|------------------|--------|--------|--------|
+| Custo Inicial     | Baixo  | Alto   | Médio  |
+| Controle          | Baixo  | Alto   | Médio  |
+| Escalabilidade    | Alta   | Baixa  | Alta   |
+| Segurança         | Média  | Alta   | Alta   |
 
-- O gasto inicial de dinheiro em infraestrutura física.
-- As despesas do CapEx têm um valor que se reduz com o tempo
+---
 
-###Despesas operacionais (OpEx)
+## 💰 Modelo de Custos
 
-- Gastas com produtos e serviços conforme necessário, pagamento conforme o uso.
-- Seja cobrado imediatamente.
+### 🏗️ CapEx (Capital Expenditure)
+- Investimento inicial em hardware  
+- Infraestrutura própria  
+- Depreciação ao longo do tempo  
 
-##Modelo baseado em consumo
+---
 
-Os provedores de serviços em nuvem operam em um modelo baseado no consumo, o que significa que os usuários finais pagam somente pelos recursos que usam
+### 🔄 OpEx (Operational Expenditure)
+- Pagamento conforme uso  
+- Sem necessidade de infraestrutura física  
+- Ideal para ambientes em nuvem  
 
-- Melhor previsão de custos.
-- São fornecidos preços para recursos e serviços individuais.
-- A cobrança é feita com base no uso real.
+---
+
+## 📊 Modelo Baseado em Consumo
+
+✔️ Pague apenas pelo que usar  
+✔️ Melhor previsibilidade de custos  
+✔️ Escalabilidade automática  
+✔️ Cobrança baseada em uso real  
+
+---
+
+## 🛠️ Tecnologias Relacionadas
+
+- Microsoft Azure  
+- Cloud Computing  
+- Virtualização  
+- Data Centers  
+
+---
+
+## 🎯 Objetivo
+
+Consolidar conhecimentos em cloud computing e criar base sólida para:
+
+- Certificações em nuvem  
+- Atuação como Desenvolvedor Cloud / Analista de Dados  
+- Projetos escaláveis na prática  
+
+---
+
+## 📌 Autor
+
+**Steven Wendryll**  
+📍 Anchieta - ES  
+💼 Desenvolvedor | Estudante de Análise e Desenvolvimento de Sistemas  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/steven-wendryll/)  
+🔗 [GitHub](https://github.com/StevenWendryll)  
+
+---
+
+## ⭐ Contribuição
+
+Sinta-se à vontade para contribuir ou sugerir melhorias!
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
